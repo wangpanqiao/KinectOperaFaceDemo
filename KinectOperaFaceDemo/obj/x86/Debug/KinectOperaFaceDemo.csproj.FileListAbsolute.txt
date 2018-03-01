@@ -1,0 +1,72 @@
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.exe
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.pdb
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo_MarkupCompile.cache
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.g.resources
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.Properties.Resources.resources
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.exe
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.pdb
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\SkeletalTracking.exe
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Kinect Project\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\SkeletalTracking.pdb
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.exe
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.pdb
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.exe
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.pdb
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\SkeletalTracking.pdb
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.baml
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\App.g.cs
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo_MarkupCompile.cache
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.g.resources
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.Properties.Resources.resources
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Kinect Project\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.exe
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.pdb
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.exe
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.pdb
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\SkeletalTracking.pdb
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.csprojResolveAssemblyReference.cache
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.baml
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.g.cs
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\App.g.cs
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo_MarkupCompile.cache
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.g.resources
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.Properties.Resources.resources
+F:\Kinect代码\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.csproj.GenerateResource.Cache
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.exe
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.pdb
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.exe
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\KinectOperaFaceDemo.pdb
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Expression.Drawing.dll
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.pdb
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\bin\Debug\SkeletalTracking.pdb
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.csprojResolveAssemblyReference.cache
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.baml
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\MainWindow.g.cs
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\App.g.cs
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo_MarkupCompile.cache
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.g.resources
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.Properties.Resources.resources
+G:\Program Files\VSProjects\KinectInAction_sourcecode\Chapter 10\KinectOperaFaceDemo\KinectOperaFaceDemo\obj\x86\Debug\KinectOperaFaceDemo.csproj.GenerateResource.Cache
